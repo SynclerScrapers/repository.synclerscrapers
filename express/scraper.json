@@ -2,7 +2,7 @@
   "_manifest" : {
     "name": "SynclerScrapers Express",
     "id": "syncler.scrapers.express",
-    "version": 1.0,
+    "version": 1,
     "classPath": "",
     "permaUrl": "https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/scraper.json"
   },

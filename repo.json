@@ -1,0 +1,16 @@
+[
+  {
+    "title": "SynclerScrapers Express",
+    "type": 1,
+    "description": "Express provider for Syncler",
+    "repositoryUrl": "https://github.com/SynclerScrapers/repository.synclerscrapers",
+    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/scraper.json"
+  },
+  {
+    "title": "Bouncy",
+    "type": 2,
+    "description": "Kosmos provider for Syncler",
+    "repositoryUrl": "https://github.com/WeeklyProblem/Bouncy",
+    "packageUrl": "https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js"
+  }
+]

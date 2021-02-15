@@ -1,12 +1,11 @@
-# Repository for SynclerScrapers providers
+# Repository for SynclerScrapers
 
-These providers are combined into one, easy to use repository and are for use within Syncler.
+These external providers are combined into one, easy to use repository and are for use within Syncler.
 
 ## FAQ
 
-> #### How do I install the provider(s)?
+> #### How do I install the repository?
 
-Method 1: set-repository-url [_**Recommended**_]
 1. Go to https://beta.syncler.net/provision
 2. Copy and paste this provision script: `set-provider-repository-url https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/repo.json`
 3. Click "Generate the provisioned installer" and download and install it.
@@ -15,13 +14,6 @@ Method 1: set-repository-url [_**Recommended**_]
 6. Open Syncler > Settings > Provider packages and browse the "My repository" section
 
 _Note: If provisioning did not happen automatically, go back to Syncler Installer and press the "Provision" button._
-
-Method 2: Entering package URL
-1. Choose "Install Express source provider packages".
-2. Enter the code on the website given to you in the popup.
-3. Copy and paste the package URL `https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/openscraper.json` when asked.
-4. Press next on the website
-5. Success! Press Done in the app and you are done.
 
 > #### How do I manage my provider(s)?
 

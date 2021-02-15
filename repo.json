@@ -1,55 +1,55 @@
 [
   {
-    "title": "Aki07 - Unified Express Package",
+    "title": "Aki07 - Unified",
     "type": 1,
     "description": "Express provider for Syncler by Aki07. It contains all the sources you will need in one package. Use this package on its own.",
     "repositoryUrl": "https://github.com/itzAki07/scraper",
     "packageUrl": "https://raw.githubusercontent.com/itzAki07/scraper/main/scraper.json"
   },
   {
-    "title": "SynclerScrapers - OpenScraper Express Package",
+    "title": "OpenScrapers - Express",
     "type": 1,
     "description": "Express provider for Syncler by SynclerScrapers. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/SynclerScrapers/repository.synclerscrapers",
-    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/openscraper.json"
+    "repositoryUrl": "https://github.com/SynclerScrapers/OpenScrapers",
+    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/OpenScrapers/main/express/openscraper.json"
   },
   {
-    "title": "Squizzle - Ultimate Express Package",
+    "title": "Squizzle - Ultimate",
     "type": 1,
     "description": "Express provider for Syncler by Squizzle. It contains all the sources you will need in one package. Use this package on its own.",
     "repositoryUrl": "https://github.com/providers4syncler/providers",
     "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/squizzle"
   },
   {
-    "title": "Squizzle - Fast Express Package",
+    "title": "Squizzle - Fast",
     "type": 1,
     "description": "Express provider for Syncler by Squizzle. It contains the minimal amount of sources for faster searches, but compromises on the amount of results.",
     "repositoryUrl": "https://github.com/providers4syncler/providers",
     "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/fast"
   },
   {
-    "title": "JakedUp - Hybrid (including Orion providers) Express Package",
+    "title": "JakedUp - Hybrid (including Orion providers)",
     "type": 1,
-    "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own.",
+    "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own. Visit the repository URL for more information.",
     "repositoryUrl": "https://github.com/JakedUp/Syncler-Packages",
     "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json"
   },
   {
-    "title": "JakedUp - Hybrid (excluding Orion providers) Express Package",
+    "title": "JakedUp - Hybrid (excluding Orion providers)",
     "type": 1,
-    "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own, or combine it with Orion's Wako package.",
+    "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own, or combine it with Orion's Wako package. Visit the repository URL for more information.",
     "repositoryUrl": "https://github.com/JakedUp/Syncler-Packages",
     "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json?exclude-orion=true"
   },
   {
-    "title": "WeeklyProblem - Bouncy Kosmos Package",
+    "title": "WeeklyProblem - Bouncy",
     "type": 2,
     "description": "Kosmos provider for Syncler by WeeklyProblem. It contains all the sources you will need in one package. You can combine this package with a single Express package for covering all bases.",
     "repositoryUrl": "https://github.com/WeeklyProblem/Bouncy",
     "packageUrl": "https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js"
   },
   {
-    "title": "JakedUp - JustWatch Kosmos Package",
+    "title": "JakedUp - JustWatch",
     "type": 2,
     "description": "Kosmos provider for Syncler by JakedUp. This package requires a subscription to the included services (Netflix, Disney+, Amazon Prime etc.), similar to the WatchNow Kosmos package. Visit the repository URL for more information.",
     "repositoryUrl": "https://github.com/JakedUp/Syncler-Packages",

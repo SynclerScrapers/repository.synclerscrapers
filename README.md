@@ -2,24 +2,18 @@
 
 These external providers are combined into one, easy to use repository and are for use within Syncler.
 
-## FAQ
-
-> #### How do I install the repository?
+## Installation
 
 1. Go to https://beta.syncler.net/provision
 2. Copy and paste this provision script: `set-provider-repository-url https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/repo.json`
-3. Click "Generate the provisioned installer" and download and install it.
-4. Open Syncler Installer, switch to BETA branch and wait for download and auto-install to complete
-5. Success! Provisioning is indicated with a toast message (popup notification)
-6. Open Syncler > Settings > Provider packages and browse the "My repository" section
+3. Click "Generate the provisioned installer" then download and install the "installer.provisioned.apk" file.
+4. Open Syncler Installer, cancel the auto-download (if started) and switch to BETA branch.
+5. Press the Download button, and install Syncler BETA
+6. Go back to Syncler Installer and press the Provision button
+7. Success! Provisioning is indicated with a toast message (popup notification)
+8. Open Syncler BETA > Settings > Provider packages and Press "My repository" to view available packages
 
-_Note: If provisioning did not happen automatically, go back to Syncler Installer and press the "Provision" button._
-
-> #### How do I manage my provider(s)?
-
-In Syncler's settings, you will find the provider packages menu. Within this category you can install/uninstall packages, enable/disable automatic provider updates and manually check for provider updates.
-
-With added repositories, you can one-click install any package within them. **Beware of installing too many packages, Syncler may not work properly.**
+> With added repositories, you can one-click install any package within them. **Beware of installing too many packages, Syncler may not work properly.**
 
 ## Documentation
 

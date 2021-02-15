@@ -1,10 +1,10 @@
 {
   "_manifest" : {
-    "name": "SynclerScrapers Express",
-    "id": "syncler.scrapers.express",
+    "name": "SynclerScrapers - OpenScraper",
+    "id": "syncler.openscraper",
     "version": 1,
     "classPath": "",
-    "permaUrl": "https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/scraper.json"
+    "permaUrl": "https://raw.githubusercontent.com/SynclerScrapers/repository.synclerscrapers/main/express/openscraper.json"
   },
     "torrentapi": {
         "name": "RARBG",

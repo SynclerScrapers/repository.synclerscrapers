@@ -19,7 +19,7 @@ _Note: If provisioning did not happen automatically, go back to Syncler Installe
 
 In Syncler's settings, you will find the provider packages menu. Within this category you can install/uninstall packages, enable/disable automatic provider updates and manually check for provider updates.
 
-With added repositories from Method 1, you can one-click install any package within them. **Beware of installing too many packages, Syncler may not work properly.**
+With added repositories, you can one-click install any package within them. **Beware of installing too many packages, Syncler may not work properly.**
 
 ## Documentation
 

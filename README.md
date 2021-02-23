@@ -5,6 +5,8 @@ These external providers are combined into one, easy to use repository and are f
 ## Installation (if you already have Syncler installed)
 
 1. Download installer.provisioned.apk from this repository to your devices and install it.
+> You can download the file directly by pressing on [this link](https://github.com/SynclerScrapers/repository.synclerscrapers/raw/main/installer.provisioned.apk)
+
 2. Open Syncler Installer and press the Provision button
 3. Success! Provisioning is indicated with a toast message (popup notification)
 4. Open Syncler > Settings > Provider packages and Press "My repository" to view available packages
@@ -12,6 +14,8 @@ These external providers are combined into one, easy to use repository and are f
 ## Installation (if you don't have Syncler already installed)
 
 1. Download installer.provisioned.apk from this repository to your devices and install it.
+> You can download the file directly by pressing on [this link](https://github.com/SynclerScrapers/repository.synclerscrapers/raw/main/installer.provisioned.apk)
+
 2. Open Syncler Installer and wait for the auto-download to finish (press the Download button if not started automatically)
 3. Install Syncler
 4. Go back to Syncler Installer and press the Provision button
